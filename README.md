@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamukaNigel
-- 👀 I’m interested in becoming a Fullstack Developer
+- 👀 I’m interested in becoming a Machine Learning Engineer.
 - 🌱 I’m currently learning HTML5, CSS, JavaScript, and C#.
-- 💞️ I’m looking to collaborate on building Frontend and Backend Projects
+- 💞️ I’m looking to collaborate on building Machine Learning-based projects.
 - 📫 How to reach me? Via Discord (tamuka_nigel)
 
 <!---
