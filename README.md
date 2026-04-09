@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TamukaNigel
 - 👀 I’m interested in becoming a Machine Learning Engineer.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, and C#.
+- 🌱 I’m currently learning about Machine Learning algorithms.
 - 💞️ I’m looking to collaborate on building Machine Learning-based projects.
 - 📫 How to reach me? Via Discord (tamuka_nigel)
 
